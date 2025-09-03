@@ -1,0 +1,12 @@
+scikit-learn
+scikit-image
+librosa
+numpy
+pillow
+hashlib
+transformers
+opencv-python
+pandas
+lpips
+torch
+matplotlib
