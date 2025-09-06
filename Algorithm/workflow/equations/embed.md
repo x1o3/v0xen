@@ -1,5 +1,5 @@
 
-## Image-to-Music Steganography Algorithm
+## v0xen embedding algorithm
 
 Let:
 
