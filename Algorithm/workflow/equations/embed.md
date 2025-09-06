@@ -13,7 +13,7 @@ Let:
 
 Resize $S$ to match half the width of $I$ and fit height accordingly:
 
-$$ w' = \frac{W}{2}, \quad h' = \left\lfloor w' \cdot \frac{h}{w} \right\rfloor $$ $$ S' \in \mathbb{Z}^{h' \times w'} = \text{Resize}(S, w', h') $$`
+$$ w' = \frac{W}{2}, \quad h' = \left\lfloor w' \cdot \frac{h}{w} \right\rfloor $$ $$ S' \in \mathbb{Z}^{h' \times w'} = \text{Resize}(S, w', h') $$
 
 ---
 
